@@ -2,7 +2,7 @@
 <img width="658" alt="Sales Analysis" src="https://github.com/user-attachments/assets/7146e410-8b8f-4ca1-bec5-9915212817bf" />
 
 ## Description 
-This project is a sample store dashboard designed to visualize sales data using various charts and graphs. It provides insights into sales, profit, order counts, regional sales distribution, category-wise sales, and more.
+This project is a Super store dashboard designed to visualize sales data using various charts and graphs. It provides insights into sales, profit, order counts, regional sales distribution, category-wise sales, and more.
 
 ## Features 
 - *Cards*: Display key metrics such as sales, profit, and order count.
@@ -17,4 +17,4 @@ This project is a sample store dashboard designed to visualize sales data using 
 - *Format Painter*: Apply formatting from one visualization to another.
   
 ## Conclusion
-The Sample Store Dashboard is a powerful tool for businesses to analyze sales data. With features like cards, charts, and maps, users can easily explore key metrics such as sales, profit, and order counts. The dashboard offers flexibility with slicers for filtering data and themes for customization. It empowers businesses to make data-driven decisions, optimize sales strategies, and drive growth.
+The Super Store Dashboard is a powerful tool for businesses to analyze sales data. With features like cards, charts, and maps, users can easily explore key metrics such as sales, profit, and order counts. The dashboard offers flexibility with slicers for filtering data and themes for customization. It empowers businesses to make data-driven decisions, optimize sales strategies, and drive growth.
